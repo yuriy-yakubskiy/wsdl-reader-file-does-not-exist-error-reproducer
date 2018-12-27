@@ -1,0 +1,5 @@
+{
+    "require": {
+        "goetas-webservices/wsdl-reader": "v0.3.4"
+    }
+}
